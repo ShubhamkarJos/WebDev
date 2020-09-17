@@ -1,0 +1,22 @@
+html{
+		background-color: #A9A9A9
+		margin: 0;
+    	padding: 0;
+	}
+h1
+	{
+			background: black
+			color: white;
+			text-align: center;
+			font-weight: bold;
+			
+	}
+h2
+	{
+		color: white;
+		text-align: left;	
+		font-weight: bold;
+		font-style: italic;		
+	}
+
+	
