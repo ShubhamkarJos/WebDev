@@ -48,7 +48,7 @@
 
 
 html{
-		background-color: #A9A9A9;
+		background-color: yellow;
 		margin: 0;
     	padding: 0;
 	}
@@ -58,7 +58,7 @@ h1
 			color: white;
 			text-align: center;
 			font-weight: bold;
-			border: 5px solid white;
+			border: 5px solid red;*/
 
 			
 	}
@@ -94,7 +94,7 @@ a:hover, a:active{
 
 		section
 		{
-  			border: 5px solid black;
+  			border: 7px solid black;
   			margin-left: 200px;
   			margin-right: 200px;
   		
