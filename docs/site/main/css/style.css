@@ -45,12 +45,18 @@
   			background: #55ACEE;
   			;
 		}
+	@keyframes example {
+  from {background-color: white;}
+  to {background-color: yellow;}
+}
 
 
 html{
 		background-color: yellow;
 		margin: 0;
     	padding: 0;
+    	animation-name: example;
+  		animation-duration: 5s;
 	}
 h1
 	{
