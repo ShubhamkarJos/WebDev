@@ -56,10 +56,10 @@ html{
 		background-color: yellow;
 		margin: 0;
     	padding: 0;
-    	animation-name: example;
+    	/*animation-name: example;
   		animation-duration: 4s;
   		animation-iteration-count: infinite;
-  		animation-direction: alternate;
+  		animation-direction: alternate;*/
 	}
 h1
 	{
