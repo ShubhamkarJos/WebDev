@@ -56,11 +56,11 @@ html{
 		/*background-color: yellow;*/
 		margin: 0;
     	padding: 0;
-    	background: url("https://wallpaperaccess.com/full/1414254.jpg")
-    	/*animation-name: example;
+    	/*background: url("https://wallpaperaccess.com/full/1414254.jpg")*/
+    	animation-name: example;
   		animation-duration: 4s;
   		animation-iteration-count: infinite;
-  		animation-direction: alternate;*/
+  		animation-direction: alternate;
 	}
 h1
 	{
