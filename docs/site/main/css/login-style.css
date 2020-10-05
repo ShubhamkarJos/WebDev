@@ -10,7 +10,7 @@ form {
 	border: 3px solid #f1f1f1;
 	margin-left: 400px;
 	margin-right: 400px;
-
+	margin-top: 50px;
 }
 
 input[type=text], input[type=password] {
@@ -21,6 +21,7 @@ input[type=text], input[type=password] {
   border: 1px solid #ccc;
   box-sizing: border-box;
 }
+
 
 button {
   background-color: #4CAF50;
@@ -70,3 +71,5 @@ span.psw {
   .cancelbtn {
      width: 100%;
   }
+
+  
