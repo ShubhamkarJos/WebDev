@@ -13,6 +13,14 @@ form {
   margin-top: 10%;
   margin-bottom: 10%;
 }
+.center {
+  margin: 0;
+  position: absolute;
+ /* top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);*/
+}
 
 /* Full-width inputs */
 input[type=text], input[type=password] {
@@ -35,6 +43,7 @@ button {
   border: none;
   cursor: pointer;
   width: 50%;
+
 }
 
 /* Add a hover effect for buttons */
@@ -64,6 +73,7 @@ img.avatar {
 
 /* Add padding to containers */
 .container {
+	position: relative;
   padding: 16px;
 }
 
