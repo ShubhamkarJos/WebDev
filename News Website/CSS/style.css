@@ -186,7 +186,7 @@ a:hover, a:active{
 }
 #main-nav .container{
   display: grid;
-  grid-template-columns: 6fr 3fr 2fr;
+  /*grid-template-columns: 6fr 3fr 2fr;*/
   padding: 1rem;
   align-items: center;
 }
