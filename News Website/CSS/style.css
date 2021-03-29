@@ -96,6 +96,7 @@ a:hover, a:active{
   background: var(--secondary-color);
 }
 .btn:hover{
+  color: #191970;
   opacity: 0.9;
 }
 .btn-block{
@@ -159,7 +160,7 @@ a:hover, a:active{
   width: 90%;
 }
 .list li a:hover{
-  color: var(--primary-color) !important;
+  color: #191970 !important;
 }
 .page-container{
   display: grid;
