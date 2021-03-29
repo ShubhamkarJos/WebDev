@@ -191,7 +191,7 @@ a:hover, a:active{
   align-items: center;
 }
 #main-nav .logo{
-  width: 350px;
+  /*width: 350px;*/
 }
 #main-nav ul{
   justify-self: end;
