@@ -42,7 +42,7 @@ h1,h2,h3,h4,h5,h6{
 .headlines{
   background-color: black; 
   color: white;
-  border: solid #191970 5px;
+  border: solid  #02075d 5px;
 
 }
 span{
@@ -90,7 +90,7 @@ a:hover, a:active{
   color: var(--dark-color);
 }
 .btn-primary{
-  background: #191970;
+  background:  #02075d;
 }
 .btn-secondary{
   background: var(--secondary-color);
@@ -113,7 +113,7 @@ a:hover, a:active{
   color: #fff;
 }
 .bg-primary{
-  background: #191970;
+  background:  #02075d;
   color: #fff;
 }
 .bg-secondary{
