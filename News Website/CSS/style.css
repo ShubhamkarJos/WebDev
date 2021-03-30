@@ -42,7 +42,7 @@ h1,h2,h3,h4,h5,h6{
 .headlines{
   background-color: black; 
   color: white;
-  border: solid  #02075d 5px;
+  border: solid  black 5px;
 
 }
 span{
